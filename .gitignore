@@ -1,0 +1,15 @@
+# React
+/**/node_modules
+/**/build
+/**/.cache
+
+# .NET Core
+/**/bin
+/**/obj
+/**/.vs
+/**/.idea
+/**/.vscode
+*.sln
+*.csproj
+
+/**/.DS_Store
